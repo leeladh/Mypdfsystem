@@ -22,25 +22,31 @@ YOLO (You Only Look Once) v8 is a state-of-the-art, real-time object detection s
 Setup and Installation:
 ```
 Python 3.x
-
+```
 
 Clone the Repository
 Clone the project repository to your local machine using the following command:
+
 ```
 git clone https://github.com/leeladh/Mypdfsystem/tree/pdf
 ```
 Conda environment (recommended for managing dependencies):
+
 ```
 conda activate pdfsystem
 ```
 Install Required Libraries
 Install all required libraries using the requirements.txt file:
+
 ```
 pip install -r requirements.txt
 ```
 
 Running the Application
 To run the application, execute the following command in the root directory of the project:
+
 ```
 Python3 app.py
 ```
+
+
